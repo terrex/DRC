@@ -1,0 +1,8 @@
+drc for Debian
+-------------
+
+Debian packaging is https://github.com/terrex/DRC/tree/debian
+
+Templates files are BLANK_EN.DSF and BLANK_ES.DSF in /usr/share/doc/drc/examples
+
+ -- Guillermo Gutierrez <xiterrex@gmail.com>  Fri, 28 Feb 2025 08:14:34 +0000

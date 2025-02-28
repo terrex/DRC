@@ -1,0 +1,7 @@
+src/*.o
+src/*.ppu
+src/daadmaker
+src/drf
+src/mcrf
+src/drb
+
