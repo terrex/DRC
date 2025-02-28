@@ -13,4 +13,4 @@ install: build
 	install -m755 drb $(DESTDIR)/usr/bin/drb
 
 clean:
-	$(RM) daadmaker drf mcrf drb
+	$(RM) daadmaker drf mcrf drb *.o *.ppu
