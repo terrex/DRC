@@ -1,13 +1,14 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Source: <url://example.com>
+Source: https://github.com/Utodev/DRC
 Upstream-Name: drc
-Upstream-Contact: <preferred name and address to reach the upstream project>
+Upstream-Contact: Uto Dev <utodev@gmail.com>
 
 Files:
  *
 Copyright:
- <years> <put author's name and email here>
- <years> <likewise for another author>
+ 2019-2025 Uto Dev <utodev@gmail.com>
+ 2019-2025 Carlos Sanchez <csanchez71@gmail.com>
+ 2019-2025 José Manuel Ferrer Ortiz <jmfo1982@gmail.com>
 License: GPL-3.0+
 
 Files:
@@ -32,12 +33,3 @@ License: GPL-3.0+
 Comment:
  On Debian systems, the complete text of the GNU General
  Public License version 3 can be found in "/usr/share/common-licenses/GPL-3".
-
-# Please also look if there are files or directories which have a
-# different copyright/license attached and list them here.
-# Please avoid picking licenses with terms that are more restrictive than the
-# packaged work, as it may make Debian's contributions unacceptable upstream.
-#
-# If you need, there are some extra license texts available in two places:
-#   /usr/share/debhelper/dh_make/licenses/
-#   /usr/share/common-licenses/
