@@ -4,7 +4,7 @@ Priority: optional
 Maintainer: Guillermo Gutierrez <xiterrex@gmail.com>
 Rules-Requires-Root: no
 Build-Depends:
- debhelper-compat (= 13), fp-compiler
+ debhelper-compat (= 13), fp-compiler, fp-units-fcl
 Standards-Version: 4.6.2
 Homepage: https://github.com/Utodev/DRC
 Vcs-Browser: https://github.com/terrex/DRC
